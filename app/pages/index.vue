@@ -14,11 +14,11 @@
             size="140"
             class="mx-auto mb-6"
           >
-            <img
-              src="https://i.ibb.co/dwqZ0Hzs/500727362-2163750410769761_3822210232682275755-n.jpg"
-              alt="Profile"
-              style="object-fit: cover; width: 100%; height: 100%;"
-            />
+          <img 
+            src="/images/profile.jpg"  
+            alt="Profile"
+            style="object-fit: cover; width: 100%; height: 100%;" 
+          />
           </v-avatar>
 
           <!-- Heading -->
