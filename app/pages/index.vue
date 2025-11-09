@@ -45,34 +45,6 @@
             ดูข้อมูลเพิ่มเติม
           </v-btn>
 
-          <!-- Social Links -->
-          <div class="mt-12">
-            <p class="text-grey-darken-1 mb-4">ติดตามหนูได้ที่นี่นะคะ 👇</p>
-            <v-btn
-              icon="mdi-github"
-              href="https://github.com/your-username"
-              target="_blank"
-              variant="text"
-              class="mx-2"
-              color="light-blue-lighten-1"
-            ></v-btn>
-            <v-btn
-              icon="mdi-linkedin"
-              href="https://linkedin.com/in/your-username"
-              target="_blank"
-              variant="text"
-              class="mx-2"
-              color="light-blue-lighten-1"
-            ></v-btn>
-            <v-btn
-              icon="mdi-email"
-              href="mailto:your-email@gmail.com"
-              target="_blank"
-              variant="text"
-              class="mx-2"
-              color="light-blue-lighten-1"
-            ></v-btn>
-          </div>
         </v-card>
 
       </v-container>
@@ -81,5 +53,4 @@
 </template>
 
 <script setup>
-// ไม่ต้องใส่อะไรเลย! Vuetify ทำงานอัตโนมัติแล้ว
 </script>
